@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TreasureChest.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CameraMovement.cs" Line="73" Column="115" />
+      <File FileName="Assets\Scripts\Health.cs" Line="104" Column="56" />
+      <File FileName="Assets\Scripts\CommonEffects.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TreasureChest.cs" Line="38" Column="119" />
+      <File FileName="Assets\Scripts\PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Pentagram.cs" Line="26" Column="134" />
+      <File FileName="Assets\Scripts\PentaPoint.cs" Line="13" Column="61" />
+      <File FileName="Assets\Scripts\Enemy.cs" Line="32" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
